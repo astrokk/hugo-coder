@@ -1,0 +1,2 @@
+[submodule "path/to/submodule-name"]
+	url = https://github.com/astrokk/hugo-coder
